@@ -24,7 +24,7 @@ export default defineUserConfig({
     }),
      commentPlugin({
       provider: 'Giscus',
-      repo:'zero7cola/overthestep',
+      repo:'outsstill/overthestep',
       repoId: 'R_kgDOQPrYjA',
       category: 'Announcements',
       categoryId: 'DIC_kwDOQPrYjM4Cxfcs'
