@@ -7,11 +7,11 @@ description: overthestep,跨过阶梯
 #heroImage: /touming.jpg
 heroText: over the step
 heroFullScreen: true
-tagline: 跨过阶梯去感受无边界的世界吧
+tagline: 跨过阶梯去感受无边界的世界吧.
 projects:
   - icon: newspaper
     name: 香港卡
-    desc: 手把手教你购买、使用hahasim卡，可注册微信，无需实名
+    desc: 手把手教你购买、使用hahasim卡，可注册微信，无需实名.
     link: /pro/card.html
 
   - icon: newspaper
